@@ -1,6 +1,4 @@
-# Python + Podman + Caddy 
-
-# 🚀 Tutorial dla Juniora: Deployment Flask z Podman + Caddy
+# 🚀 Tutorial: Deployment Flask z Podman + Caddy
 
 ## Czego się nauczysz?
 - Jak postawić własny serwer za 2 EUR/miesiąc
